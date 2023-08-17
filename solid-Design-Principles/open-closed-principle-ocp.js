@@ -74,8 +74,8 @@ function getTotalAreas(shapes) {
   }, 0);
 }
 
-const myShapesA = [new Square(4), new Circle(4), new Rectangle(3, 5)];
-getTotalAreas(myShapesA);
+const myShapes = [new Square(4), new Circle(4), new Rectangle(3, 5)];
+getTotalAreas(myShapes);
 
 // do
 
