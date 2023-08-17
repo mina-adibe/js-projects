@@ -1,0 +1,15 @@
+{
+  "name": "solid-design-principles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "open-closed-principle-ocp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
